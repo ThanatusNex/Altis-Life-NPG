@@ -107,16 +107,16 @@ class WeaponShops {
         level = 2;
         msg = "You must be a Patrol Officer Rank!";
         items[] = {
-        	{ "arifle_MX_F", "", 35000 },
-			{ "SMG_02_ACO_F", "", 30000 },
-			{ "HandGrenade_Stone", "Flashbang", 1700 },
-			{ "MineDetector", "", 1000 },
-			{ "acc_flashlight", "", 750 },
-			{ "optic_Holosight", "", 1200 },
-			{ "optic_Arco", "", 2500 },
-			{ "muzzle_snds_H", "", 2750 },
-			{ "30Rnd_65x39_caseless_mag", "", 130 },
-			{ "30Rnd_9x21_Mag", "", 250 }
+        	{ "arifle_MX_F", "", 0 },
+			{ "SMG_02_ACO_F", "", 0 },
+			{ "HandGrenade_Stone", "Flashbang", 0 },
+			{ "MineDetector", "", 0 },
+			{ "acc_flashlight", "", 0 },
+			{ "optic_Holosight", "", 0 },
+			{ "optic_Arco", "", 0 },
+			{ "muzzle_snds_H", "", 0 },
+			{ "30Rnd_65x39_caseless_mag", "", 0 },
+			{ "30Rnd_9x21_Mag", "", 0 }
         };
     };
     class cop_sergeant {
@@ -126,15 +126,15 @@ class WeaponShops {
         level = 3;
         msg = "You must be a Sergeant Rank!";
         items[] = {
-            { "SMG_02_ACO_F", "", 15000 },
-			{ "hgun_ACPC2_F", "", 17500 },
-			{ "HandGrenade_Stone", "Flashbang", 1700 },
-			{ "arifle_MXC_F", "", 30000 },
-			{ "optic_Arco", "", 2500 },
-			{ "muzzle_snds_H", "", 2750 },
-			{ "30Rnd_65x39_caseless_mag", "", 100 },
-			{ "30Rnd_9x21_Mag", "", 60 },
-			{ "9Rnd_45ACP_Mag", "", 200 }
+            { "SMG_02_ACO_F", "", 0 },
+			{ "hgun_ACPC2_F", "", 0 },
+			{ "HandGrenade_Stone", "Flashbang", 0 },
+			{ "arifle_MXC_F", "", 0 },
+			{ "optic_Arco", "", 0 },
+			{ "muzzle_snds_H", "", 0 },
+			{ "30Rnd_65x39_caseless_mag", "", 0 },
+			{ "30Rnd_9x21_Mag", "", 0 },
+			{ "9Rnd_45ACP_Mag", "", 0 }
         };
     };
     //Medic Shops

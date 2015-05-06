@@ -88,12 +88,12 @@ class CarShops {
 	class cop_car {
 		side = "cop";
 		vehicles[] = {
-			{ "C_Hatchback_01_F", 15000, "", { "life_coplevel", 2} },
-			{ "C_Offroad_01_F", 20000, "", { "life_coplevel", 4} },
-			{ "C_SUV_01_F", 25000, "", { "life_coplevel", 3} },
-			{ "C_Hatchback_01_sport_F", 35000, "", { "life_coplevel", 3} },
-			{ "B_MRAP_01_F", 100000, "", { "life_coplevel", 5} },
-			{ "I_Truck_02_covered_F", 75000, "", {"life_coplevel", 4} }
+			{ "C_Hatchback_01_F", 0, "", { "life_coplevel", 2} },
+			{ "C_Offroad_01_F", 0, "", { "life_coplevel", 4} },
+			{ "C_SUV_01_F", 0, "", { "life_coplevel", 3} },
+			{ "C_Hatchback_01_sport_F", 0, "", { "life_coplevel", 3} },
+			{ "B_MRAP_01_F", 0, "", { "life_coplevel", 5} },
+			{ "I_Truck_02_covered_F", 0, "", {"life_coplevel", 4} }
 		};
 	};
 
@@ -115,9 +115,9 @@ class CarShops {
 	class cop_air {
 		side = "cop";
 		vehicles[] = {
-			{ "B_Heli_Light_01_F", 75000, "cAir" },
-			{ "I_Heli_light_03_unarmed_F", 200000, "cAir" },
-			{ "B_Heli_Transport_01_F", 600000, "cAir" }	
+			{ "B_Heli_Light_01_F", 0, "cAir" },
+			{ "I_Heli_light_03_unarmed_F", 0, "cAir" },
+			{ "B_Heli_Transport_01_F", 0, "cAir" }	
 		};
 	};
 
@@ -133,10 +133,10 @@ class CarShops {
 	class cop_ship {
 		side = "cop";
 		vehicles[] = {
-			{ "B_Boat_Transport_01_F", 3000, "coastguard" },
-			{ "C_Boat_Civil_01_police_F", 20000, "coastguard" },
-			{ "B_Boat_Armed_01_minigun_F", 75000, "coastguard" },
-			{ "B_SDV_01_F", 100000, "coastguard" }
+			{ "B_Boat_Transport_01_F", 0, "coastguard" },
+			{ "C_Boat_Civil_01_police_F", 0, "coastguard" },
+			{ "B_Boat_Armed_01_minigun_F", 0, "coastguard" },
+			{ "B_SDV_01_F", 0, "coastguard" }
 		};
 	};
 
