@@ -36,7 +36,7 @@ class Life_Settings {
 	revive_fee = 1500; //Revive fee that players have to pay and medics / EMS are rewarded
 	
 	/* House related settings */
-	house_limit = 5; //Maximum amount of houses a player can own.
+	house_limit = 2; //Maximum amount of houses a player can own.
 
 	/* Gang related settings */
 	gang_price = 75000; //Price for creating a gang, remember they are persistent so keep it reasonable to avoid millions of gangs.
@@ -44,7 +44,7 @@ class Life_Settings {
 	gang_upgradeMultiplier = 2.5; //Not sure if in use?
 
 	/* Player-related systems */
-	enable_fatigue = true; //Set to false to disable the ARMA 3 false system.
+	enable_fatigue = false; //Set to false to disable the ARMA 3 false system.
 	total_maxWeight = 82; //Identifies the max carrying weight (gets adjusted throughout game when wearing different types of clothing).
 	total_maxWeightT = 24;  //Static variable for the maximum weight allowed without having a backpack
 	paycheck_period = 5; //Scaled in minutes
