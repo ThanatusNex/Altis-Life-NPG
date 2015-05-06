@@ -16,10 +16,7 @@ if(side player == independent) then {
 	};
 };
 if(side player == WEST) then {
-	// Basic cop uniform.
-	if (uniform player == "U_B_CombatUniform_mcam" && (FETCH_CONST(life_coplevel) == 0)) then { 
-		player setObjectTextureGlobal [0, ""];
-	};
+	//PCSO
 	if (uniform player == "U_B_CombatUniform_mcam" && (FETCH_CONST(life_coplevel) == 1)) then { 
 		player setObjectTextureGlobal [0, "textures\police\pcso_uniform.paa"];
 	};
