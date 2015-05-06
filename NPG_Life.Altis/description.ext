@@ -1,11 +1,11 @@
 author = "NPG";
-onLoadName = "Altis Life v0.3";
+onLoadName = "Altis Life v0.1.0-1";
 onLoadMission = "An RPG game mode modified by NPG";
 joinUnassigned = 1;
 respawn = BASE;
 respawndelay = 5;
 disabledAI = true;
-disableChannels[]={0,1,2};
+disableChannels[]={0,1,2,3,6};
 enableDebugConsole = 1;
 respawnDialog = 0;
 
