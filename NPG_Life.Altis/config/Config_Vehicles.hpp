@@ -122,11 +122,11 @@ class CarShops {
 	};
 
 	class cop_airhq {
-		side = "civ";
+		side = "cop";
 		vehicles[] = {
-			{ "B_Heli_Light_01_F", 75000, "cAir" },
-			{ "I_Heli_light_03_unarmed_F", 200000, "cAir" },
-			{ "B_Heli_Transport_01_F", 600000, "cAir" }	
+			{ "B_Heli_Light_01_F", 0, "cAir" },
+			{ "I_Heli_light_03_unarmed_F", 0, "cAir" },
+			{ "B_Heli_Transport_01_F", 0, "cAir" }	
 		};
 	};
 
