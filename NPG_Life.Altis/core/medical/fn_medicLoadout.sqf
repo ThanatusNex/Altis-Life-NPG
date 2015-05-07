@@ -19,7 +19,5 @@ player assignItem "ItemCompass";
 player addItem "ItemWatch";
 player assignItem "ItemWatch";
 
-[[player,0,"textures\medic\medic_uniform.jpg"],"life_fnc_setTexture",true,false] call life_fnc_MP;
-
 [] call life_fnc_saveGear;
 [] call life_fnc_Uniformscolor;
