@@ -121,7 +121,6 @@ class WeaponShops {
 			{ "arifle_MXM_Black_F", "", 0 },
 			{ "SMG_02_ACO_F", "", 0 },
 			{ "HandGrenade_Stone", "Flashbang", 0 },
-			{ "MineDetector", "", 0 },
 			{ "acc_flashlight", "", 0 },
 			{ "optic_Holosight", "", 0 },
 			{ "optic_Arco", "", 0 },
