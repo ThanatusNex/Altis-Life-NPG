@@ -116,7 +116,9 @@ class WeaponShops {
         level = 2;
         msg = "You must be a Patrol Officer Rank!";
         items[] = {
-        	{ "arifle_MX_F", "", 0 },
+			{ "arifle_MX_Black_F", "", 0 },
+			{ "arifle_MXC_Black_F", "", 0 },
+			{ "arifle_MXM_Black_F", "", 0 },
 			{ "SMG_02_ACO_F", "", 0 },
 			{ "HandGrenade_Stone", "Flashbang", 0 },
 			{ "MineDetector", "", 0 },
