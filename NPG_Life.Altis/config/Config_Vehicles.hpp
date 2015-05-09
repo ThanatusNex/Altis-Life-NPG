@@ -106,9 +106,7 @@ class CarShops {
 			{ "I_Heli_Transport_02_F", 1500000, "pilot" },
 			{ "I_Heli_light_03_unarmed_F", 2000000, "pilot" },
 			{ "B_Heli_Transport_03_unarmed_F", 8000000, "pilot" },
-			{ "O_Heli_Transport_04_covered_F", 8000000, "pilot" },
-			{ "I_Plane_Fighter_03_AA_F", 10000000, "pilot" },
-			{ "O_Plane_CAS_02_F", 15000000, "pilot" }
+			{ "O_Heli_Transport_04_covered_F", 8000000, "pilot" }
 		};
 	};
 
